@@ -1,0 +1,20 @@
+{
+  "name": "contentfulproject",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node node_modules/react-native/local-cli/cli.js start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "dependencies": {
+    "contentful": "^3.6.4",
+    "react": "15.3.2",
+    "react-native": "0.34.1"
+  },
+  "description": null,
+  "devDependencies": {
+    "react-scripts": "1.0.0"
+  }
+}
